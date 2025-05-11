@@ -1,0 +1,6 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+Never use a data mock, always use the services available to obtain the data.

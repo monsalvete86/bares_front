@@ -1,0 +1,6 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+ry to pay special attention to the use of typescript options when defining components, functions, classes and so on, so that when used, they suggest or show the expected data type.
